@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="806856f2-b4fc-49f6-b1c6-1e6a437c6a15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_query.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_query.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migration.py" beforeDir="false" afterPath="$PROJECT_DIR$/migration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_mongo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_mongo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +199,7 @@
       <updated>1584640184464</updated>
       <workItem from="1584640188348" duration="7766000" />
       <workItem from="1584705538405" duration="47743000" />
-      <workItem from="1584818449771" duration="3008000" />
+      <workItem from="1584818449771" duration="3482000" />
     </task>
     <servers />
   </component>
