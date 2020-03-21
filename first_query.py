@@ -66,7 +66,7 @@ def query_one(mongo_client):
     #     _id: customer id
     #     count: # of rentals
     #     in_ids: list of
-    #                     inventory item id
+    #                     # inventory item id
     #                     rental year
 
     fit_customer_ids = []

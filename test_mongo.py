@@ -11,3 +11,4 @@ client = pymongo.MongoClient(
     "mongodb+srv://maximevgrafov:maximevgrafov@dmdassignmentspring-qvs0c.mongodb.net/test?retryWrites=true&w=majority")
 mongo_db = client.test
 
+

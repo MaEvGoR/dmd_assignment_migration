@@ -8,6 +8,7 @@ client = pymongo.MongoClient("mongodb+srv://maximevgrafov:maximevgrafov@dmdassig
 mongo_db = client.test
 
 conn = psycopg2.connect(dbname='dvdrental', user='postgres', password='smth', host='localhost', port='5433')
+
 postgres_cursor = conn.cursor()
 
 
